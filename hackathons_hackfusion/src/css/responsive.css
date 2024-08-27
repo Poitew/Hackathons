@@ -1,0 +1,105 @@
+@media all and (min-width: 1024px) and (max-width: 1280px) { 
+
+}
+
+@media all and (min-width: 768px) and (max-width: 1024px) { 
+
+}
+
+@media all and (min-width: 480px) and (max-width: 768px) { 
+
+}
+
+@media all and (max-width: 480px) { 
+    h1 {
+        font-size: 5vw;
+    }
+
+    header nav {
+        width: 50vw;
+    }
+
+    li {
+        font-size: 4vw;
+    }
+
+    .title h2 {
+        font-size: 10vw;
+    }
+
+    .title p {
+        font-size: 5vw;
+    }
+
+    .arrow-img {
+        display: none;
+    }
+
+    .start-button {
+        margin-top: 10%;
+        width: 20vw;
+        height: 5vh;
+    }
+
+    .start-button p {
+        font-size: 3vw;
+    }
+
+    .web-dev-topics h3 {
+        font-size: 5vw;
+    }
+
+    .web-dev-topics p {
+        font-size: 4vw;
+    }
+
+    .topics-grid {
+        grid-template-columns: 100%;
+        grid-template-rows: 25% 25% 25% 25%;
+        gap: 1vh 0;
+    }
+
+    .topic {
+        width: 65vw;
+        height: 20vh;
+    }
+
+    h4 {
+        font-size: 5vw;
+    }
+
+    footer p {
+        font-size: 4.5vw;
+    }
+
+    footer img {
+        height: 10vh;
+    }
+
+    .text h1 {
+        font-size: 8vw;   
+    }
+
+    .text p {
+        font-size: 5vw;
+    }
+
+    pre {
+        width: 110%;
+    }
+    
+    code {
+        text-wrap: pretty;
+    }
+
+    .roadmap {
+        min-height: 100vh;
+        height: fit-content;
+        padding-top: 30%;
+    }
+
+    .about p {
+        font-size: 5vw;
+    }
+
+}

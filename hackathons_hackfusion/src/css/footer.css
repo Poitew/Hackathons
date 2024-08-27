@@ -1,0 +1,35 @@
+footer {
+    width: 100%;
+    height: 50vh;
+    background: #111;
+    border-top: 2px solid rgb(125, 119, 119);
+    padding: 3% 0 0 5%;
+    overflow: hidden;
+}
+
+footer img {
+    width: 15vw;
+    height: 40vh;
+    transform: rotate(130deg);
+    float: right;
+    padding: 20% 15% 0 0;
+}
+
+footer h4 {
+    width: fit-content;
+}
+
+.footer-sections {
+    width: fit-content;
+    float: left;
+    margin-right: 10%;
+}
+
+footer p {
+    color: rgb(6, 92, 6);
+    font-weight: bold;
+}
+
+footer li {
+    margin-top: 10%;
+}

@@ -1,0 +1,6 @@
+The Full stack figure is basically a combination of front-end and back-end, it's not really a part of the website structure but rather a job title.
+It must be said that a modern full stack figure should also have some DevOps knowledge but it's not mandatory, for more information check the dedicated roadmap.
+
+Full roadmap:
+
+HTML -> CSS -> JavaScript -> Vue.JS -> PHP -> MySQL

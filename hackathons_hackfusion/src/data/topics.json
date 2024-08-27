@@ -1,0 +1,22 @@
+[
+    {
+        "name": "html",
+        "to": "/course/html"
+    },
+
+    {
+        "name": "css",
+        "to": "/course/css"
+    },
+
+    {
+        "name": "javascript",
+        "to": "/course/javascript"
+    },
+    
+    {
+        "name": "Vue.js",
+        "to": "/course/vue"
+    }
+    
+]

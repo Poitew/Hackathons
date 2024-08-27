@@ -1,0 +1,13 @@
+.about {
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(12, 12, 12);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.about p {
+    width: 70%;
+}

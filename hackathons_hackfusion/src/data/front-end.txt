@@ -1,0 +1,6 @@
+Becoming a front end developer is very easy, it is in fact one of the most popular starting point of every new developer as the path is fairly easy and straightforward.
+That is beacuse for the most part there is not really any choice on what language to learn; HTML for the structure, CSS for the style and JavaScript for the interactivity (There also is TypeScript but it is a superset of JavaScript and at the end of the day it still translates to JavaScript).
+The only part where there is a bit of a choice is about what JavaScript framework to learn (a framework is a set of functionality to help developers build software), there are quite a few options but the main one are:
+React.JS, Vue.JS, Angular and Svelte; the latter is however still new and rarely used in real workspace.
+
+This website will teach you HTML, CSS, JavaScript and Vue.JS.

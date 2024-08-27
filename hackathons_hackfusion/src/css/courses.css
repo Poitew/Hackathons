@@ -1,0 +1,25 @@
+.course-text {
+    width: 100%;
+    height: fit-content;
+    background-color: rgb(12, 12, 12);
+    padding: 7% 0 0 1%;
+}
+
+.text {
+    width: 90%;
+    height: 100%;
+    line-height: 5vh;
+}
+
+.text h2 {
+    color: #ea2f2f;
+}
+
+.text pre {
+    background-color: #1b1a19;
+    border: 2px solid rgb(48, 45, 45);
+}
+
+.text img {
+    width: 100%;
+}

@@ -1,0 +1,7 @@
+The Backend, this is where things start getting harder. Think of it as the place where all the magics in an application happen, whenever you order something from an e-commerce,
+your data is handled in the back-end, and your order informations is stored in a database.
+In this backend you have a lot of different technologies to choose from, for the main language there most popular choices are: node.JS, PHP, Java with a web framework like Spring or even Python with a web framework like Django.
+Meanwhile for the databse you have 2 main type of databases: Relational and NoSQL; however this 2 main types also have their own subdivisions.
+Database of the relational type are MySQL, MariaDB, postgreSQL and a lot more...
+The main databases of the NoSQL type are mongoDB and Redis.
+This 2 types work very differently but for now don't worry about that, the technologies that we are going to use is PHP and MySQL, probably the most popular combination.

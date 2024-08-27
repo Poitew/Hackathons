@@ -1,0 +1,7 @@
+DevOps, a set of practice and technologies to automate each and every part of the software development cycle; this not only speed up the process but also reduces human errors.
+This practices are harder than software development as they require a complete set of technologies and knowledge on a lot of different topics, ranging from simple scripts in Python to knowledge of most of the network protocols and even managing hundreds of Docker Containers (don't worry what this mean you will understand it).
+But this does not stop here, there is a lot more to cover and this is why a roadmap is needed, this one will only cover the basics; it is up to you to explore this world and all the different possibilities.
+
+What this roadmap cover:
+
+What is Devops -> Python -> Git -> Network Protocols -> Docker -> Jenkins
